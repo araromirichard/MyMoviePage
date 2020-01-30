@@ -1,0 +1,39 @@
+*{
+	width:auto;
+	
+	
+	
+}
+
+.movie {
+	color: white;
+	font-family: sans-serif;
+	background-image: url("images/nice.jpg");
+	background-size: cover;
+	padding: 20px 20px 20px 200px;
+	width: 70%;
+	
+	}
+
+#button {
+		background-color: #ab003c;
+		border: none;
+		
+		margin: 4px 2px;
+		padding: 10px 25px;
+		color: grey
+		}
+
+#button:hover {
+	border: none;
+	background-color: gray;
+	color: #ab003c;
+	margin: 4px 2px;
+	cursor: pointer;
+	/*padding: 10px 25px;*/
+}		
+.frame {
+	width: 30%;
+
+	height= 180px;
+}

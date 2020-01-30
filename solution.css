@@ -1,0 +1,28 @@
+
+.movie {
+	color: white;
+	font-family: sans-serif;
+	padding: 20px 20px 20px 200px;
+	box-sizing: border-box;
+	font-size: 150%;
+	margin-left: 250px;
+	background: url("images/female.jpg") 45px 20px/150px 260px no-repeat, url("images/nice.jpg") 0% 0%/cover;
+	}
+
+#button {
+		background-color: #ab003c;
+		border: none;
+		display:block;
+		margin: 4px 2px;
+		padding: 20px 25px;
+		color: grey
+		}
+
+#button:hover {
+	border: none;
+	background-color: gray;
+	color: #ab003c;
+	margin: 4px 2px;
+	cursor: pointer;
+	/*padding: 10px 25px;*/
+}		
